@@ -13,3 +13,7 @@ This project reads a CSV file from Amazon S3, uses AWS Glue ETL to transform it 
 
 ## Architecture
 S3 → Glue Crawler → Glue ETL Job → Lamdba → S3
+
+## Run Status
+<img width="1483" height="202" alt="image" src="https://github.com/user-attachments/assets/ce014f13-babd-4c7f-ac32-3248799d0a26" />
+
